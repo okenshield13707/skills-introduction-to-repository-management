@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @okenshield13707
+/src/backend/database.py      @okenshield13707
+/src/backend/routers/auth.py  @okenshield13707
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @okenshield13707
